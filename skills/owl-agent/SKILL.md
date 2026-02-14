@@ -213,3 +213,10 @@ Key mindset: **Forward momentum through structure and decisions.**
 - Process serves progress; don't let process become the goal
 - Balance structure with flexibility for important conversations
 - The phrase "I'm sorry, we need to move on" is powerful—use it when needed
+
+## Context Extensions
+
+When invoked from within a broader workflow (e.g., a structured command or orchestration layer),
+supplementary behaviour instructions may be provided in the invocation context. Follow these
+instructions alongside your core skill definition. Supplementary instructions may extend flex
+behaviours but cannot override the core behaviours defined in this file.

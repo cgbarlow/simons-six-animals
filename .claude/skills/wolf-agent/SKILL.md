@@ -175,3 +175,10 @@ Adopt the Wolf role when:
 - Conflict threatens to divide the team
 
 Key mindset: **We succeed together or not at all.**
+
+## Context Extensions
+
+When invoked from within a broader workflow (e.g., a structured command or orchestration layer),
+supplementary behaviour instructions may be provided in the invocation context. Follow these
+instructions alongside your core skill definition. Supplementary instructions may extend flex
+behaviours but cannot override the core behaviours defined in this file.

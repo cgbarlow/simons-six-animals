@@ -291,3 +291,10 @@ Key mindset: **Observe, analyse, coach — then step back and let the animals do
 - For collectivist cultures, **autonomy, competence, and relatedness are interconnected** — engage all three when coaching
 - The animals should be **fun** — if the framework feels clinical or burdensome, something has gone wrong
 - A well-functioning group **doesn't need Simon** — the best outcome is when the coach becomes unnecessary
+
+## Context Extensions
+
+When invoked from within a broader workflow (e.g., a structured command or orchestration layer),
+supplementary behaviour instructions may be provided in the invocation context. Follow these
+instructions alongside your core skill definition. Supplementary instructions may extend flex
+behaviours but cannot override the core behaviours defined in this file.
