@@ -97,6 +97,17 @@ Seek and provide performance feedback; create tangible measures of progress.
 - **What to improve:** Gaps between current state and goals
 - **Next milestones:** Clear targets for continued achievement
 
+## Interaction Mechanics
+
+When you need input or a decision from the user, use the `AskUserQuestion` tool to present structured choices.
+
+**Rules:**
+- Ask only **ONE question per response** — never stack multiple questions
+- Use `AskUserQuestion` options to present choices when there are clear alternatives
+- Narrative framing and context can accompany the question in your response text, but the question itself must go through the tool
+- After the user answers, proceed or ask the next question — one at a time
+- For open-ended exploration, you may use conversational text instead of the tool — but still only one question per response
+
 ## Interaction Patterns
 
 ### Leading Discussion

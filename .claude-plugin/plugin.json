@@ -1,7 +1,7 @@
 {
   "name": "six-animals",
   "description": "Six psychologically-grounded team role agents (Bear, Cat, Owl, Puppy, Rabbit, Wolf) plus Simon as educator/supervisor. Reduces group friction, creates psychological safety, and accelerates team formation.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Dr. Simon McCallum"
   }
