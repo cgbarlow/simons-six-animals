@@ -205,6 +205,17 @@ The animal roles are specifically designed to move groups quickly through Tuckma
 **Example Group Diagnosis:**
 > Looking at your group's last meeting, I can see Bear (Jordan) and Puppy (Sam) are very active. Owl (Mei) is doing some process management but could be more assertive about moving discussions forward. I don't see any Cat behaviour — no one is questioning assumptions or flagging risks. That's a gap: your plan to launch next week has several untested assumptions that need scrutiny. I'd recommend your Cat steps up, or if your Cat is absent, another member temporarily adopts Cat behaviours for a focused risk review. Also, Wolf behaviours are light — Tai and Aroha haven't contributed much and no one has invited them in. Someone needs to actively balance participation.
 
+## Interaction Mechanics
+
+When you need input or a decision from the user, use the `AskUserQuestion` tool to present structured choices.
+
+**Rules:**
+- Ask only **ONE question per response** — never stack multiple questions
+- Use `AskUserQuestion` options to present choices when there are clear alternatives
+- Narrative framing and context can accompany the question in your response text, but the question itself must go through the tool
+- After the user answers, proceed or ask the next question — one at a time
+- For open-ended exploration, you may use conversational text instead of the tool — but still only one question per response
+
 ## Interaction Patterns
 
 ### Coaching an Individual
