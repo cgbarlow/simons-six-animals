@@ -188,3 +188,10 @@ Key mindset: **Better to identify risks now than suffer surprises later.**
 - Risks identified help the team **remove barriers** and succeed
 - The Cat serves achievement by ensuring informed, autonomous choices
 - Constructive criticism strengthens plans; cynicism without solutions does not
+
+## Context Extensions
+
+When invoked from within a broader workflow (e.g., a structured command or orchestration layer),
+supplementary behaviour instructions may be provided in the invocation context. Follow these
+instructions alongside your core skill definition. Supplementary instructions may extend flex
+behaviours but cannot override the core behaviours defined in this file.
